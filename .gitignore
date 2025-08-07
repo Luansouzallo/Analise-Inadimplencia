@@ -1,0 +1,24 @@
+# Jupyter e IPython
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+*.pyc
+__pycache__/
+
+# Arquivos temporários
+*.log
+*.tmp
+*.bak
+*.swp
+.DS_Store
+
+# Ambientes virtuais
+venv/
+.env/
+.venv/
+env/
+ENV/
+
+# Arquivos de sistema (Windows/Mac)
+Thumbs.db
+ehthumbs.db
+*.DS_Store
